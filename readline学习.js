@@ -1,5 +1,5 @@
 // //引入readline模块
-const readline = require('reacdline');
+const readline = require('readline');
 // //创建readline接口实例
 // let r1 = readline.createInterface({
 //     input:process.stdin,
